@@ -1,5 +1,5 @@
 ---
-**title: "Simplifying iOS Application Development with Modular Frameworks"**
+title: "Simplifying iOS Application Development with Modular Frameworks"
 date: 2023-06-05
 ---
 
